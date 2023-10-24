@@ -1,6 +1,6 @@
-- Happy to meet you I'm Aizon
-- Learning developer, currently in school
-- Some experience in web developement as well as Python
+- Happy to meet you I'm Aizon ✌️
+- Learning developer, currently in school 🎓
+- Some experience in web developement as well as Python 📄
 - Currently working on learning C
 - Always down to help you <3
 
