@@ -1,7 +1,7 @@
 - Happy to meet you I'm Aizon ✌️
 - Learning developer, currently in school 🎓
 - Some experience in web developement as well as Python 📄
-- Currently working on learning C
+- Currently learning Symfony development
 - Always down to help you <3
 
 <!---
